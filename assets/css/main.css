@@ -3382,7 +3382,9 @@ input, select, textarea {
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		background-color: #5e42a6;
+		/* Header background color */
+		background-color: #1d1e22;
+		/*background-color: #5e42a6;*/
 		cursor: default;
 		padding: 1.75em 2em;
 	}
