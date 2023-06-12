@@ -3773,12 +3773,18 @@ input, select, textarea {
 			#sidebar nav a:before {
 				background: #3c2c62;
 			}
-
+			/*TO CHANGE THE COLOR OF LINE UNDERLINING*/
 			#sidebar nav a:after {
+				/*
 				background-image: -moz-linear-gradient(to right, #5e42a6, #b74e91);
 				background-image: -webkit-linear-gradient(to right, #5e42a6, #b74e91);
 				background-image: -ms-linear-gradient(to right, #5e42a6, #b74e91);
 				background-image: linear-gradient(to right, #5e42a6, #b74e91);
+				*/
+				background-image: -moz-linear-gradient(to right, #1f3865, #b74e91);
+				background-image: -webkit-linear-gradient(to right, #651f38, #b74e91);
+				background-image: -ms-linear-gradient(to right, #38651f, #b74e91);
+				background-image: linear-gradient(to right, #651f38, #b74e91);
 				-moz-transition: max-width 0.2s ease;
 				-webkit-transition: max-width 0.2s ease;
 				-ms-transition: max-width 0.2s ease;
