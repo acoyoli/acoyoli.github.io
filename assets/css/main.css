@@ -3236,7 +3236,9 @@ input, select, textarea {
 			}
 
 		.wrapper.alt {
-			background-color: #261c3e;
+			/* About me background color */
+			background-color: #1f3865;
+			/*background-color: #261c3e;*/
 		}
 
 		.wrapper.style1 {
@@ -3258,7 +3260,9 @@ input, select, textarea {
 		}
 
 		.wrapper.style2-alt {
-			background-color: #3e4094;
+			/* Footer background color */
+			background-color: #1d1e22;
+			/*background-color: #3e4094;*/
 		}
 
 		.wrapper.style3 {
